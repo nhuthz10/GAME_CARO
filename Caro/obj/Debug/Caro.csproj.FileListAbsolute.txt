@@ -1,0 +1,39 @@
+C:\Users\truon\Desktop\Caro\Caro\Caro\bin\Debug\Caro.exe.config
+C:\Users\truon\Desktop\Caro\Caro\Caro\bin\Debug\Caro.exe
+C:\Users\truon\Desktop\Caro\Caro\Caro\bin\Debug\Caro.pdb
+C:\Users\truon\Desktop\Caro\Caro\Caro\obj\Debug\Caro.csproj.AssemblyReference.cache
+C:\Users\truon\Desktop\Caro\Caro\Caro\obj\Debug\Caro.csproj.SuggestedBindingRedirects.cache
+C:\Users\truon\Desktop\Caro\Caro\Caro\obj\Debug\Caro.frmPlayGame.resources
+C:\Users\truon\Desktop\Caro\Caro\Caro\obj\Debug\Caro.Properties.Resources.resources
+C:\Users\truon\Desktop\Caro\Caro\Caro\obj\Debug\Caro.frmPvsC.resources
+C:\Users\truon\Desktop\Caro\Caro\Caro\obj\Debug\Caro.frmPvsP.resources
+C:\Users\truon\Desktop\Caro\Caro\Caro\obj\Debug\Caro.csproj.GenerateResource.cache
+C:\Users\truon\Desktop\Caro\Caro\Caro\obj\Debug\Caro.csproj.CoreCompileInputs.cache
+C:\Users\truon\Desktop\Caro\Caro\Caro\obj\Debug\Caro.exe
+C:\Users\truon\Desktop\Caro\Caro\Caro\obj\Debug\Caro.pdb
+C:\Users\truon\Desktop\Game Caro\Caro\Caro\bin\Debug\Caro.exe.config
+C:\Users\truon\Desktop\Game Caro\Caro\Caro\bin\Debug\Caro.exe
+C:\Users\truon\Desktop\Game Caro\Caro\Caro\bin\Debug\Caro.pdb
+C:\Users\truon\Desktop\Game Caro\Caro\Caro\obj\Debug\Caro.csproj.AssemblyReference.cache
+C:\Users\truon\Desktop\Game Caro\Caro\Caro\obj\Debug\Caro.csproj.SuggestedBindingRedirects.cache
+C:\Users\truon\Desktop\Game Caro\Caro\Caro\obj\Debug\Caro.frmPlayGame.resources
+C:\Users\truon\Desktop\Game Caro\Caro\Caro\obj\Debug\Caro.Properties.Resources.resources
+C:\Users\truon\Desktop\Game Caro\Caro\Caro\obj\Debug\Caro.frmPvsC.resources
+C:\Users\truon\Desktop\Game Caro\Caro\Caro\obj\Debug\Caro.frmPvsP.resources
+C:\Users\truon\Desktop\Game Caro\Caro\Caro\obj\Debug\Caro.csproj.GenerateResource.cache
+C:\Users\truon\Desktop\Game Caro\Caro\Caro\obj\Debug\Caro.csproj.CoreCompileInputs.cache
+C:\Users\truon\Desktop\Game Caro\Caro\Caro\obj\Debug\Caro.exe
+C:\Users\truon\Desktop\Game Caro\Caro\Caro\obj\Debug\Caro.pdb
+C:\Users\truon\Desktop\Caro\Caro\bin\Debug\Caro.exe.config
+C:\Users\truon\Desktop\Caro\Caro\bin\Debug\Caro.exe
+C:\Users\truon\Desktop\Caro\Caro\bin\Debug\Caro.pdb
+C:\Users\truon\Desktop\Caro\Caro\obj\Debug\Caro.csproj.AssemblyReference.cache
+C:\Users\truon\Desktop\Caro\Caro\obj\Debug\Caro.csproj.SuggestedBindingRedirects.cache
+C:\Users\truon\Desktop\Caro\Caro\obj\Debug\Caro.frmPlayGame.resources
+C:\Users\truon\Desktop\Caro\Caro\obj\Debug\Caro.Properties.Resources.resources
+C:\Users\truon\Desktop\Caro\Caro\obj\Debug\Caro.frmPvsC.resources
+C:\Users\truon\Desktop\Caro\Caro\obj\Debug\Caro.frmPvsP.resources
+C:\Users\truon\Desktop\Caro\Caro\obj\Debug\Caro.csproj.GenerateResource.cache
+C:\Users\truon\Desktop\Caro\Caro\obj\Debug\Caro.csproj.CoreCompileInputs.cache
+C:\Users\truon\Desktop\Caro\Caro\obj\Debug\Caro.exe
+C:\Users\truon\Desktop\Caro\Caro\obj\Debug\Caro.pdb
